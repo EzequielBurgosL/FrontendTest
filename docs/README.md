@@ -1,5 +1,23 @@
 # FrontendTest
 
+## Installing project
+
+Clone or download gitHub repo in your local machine
+
+```sh
+git clone https://github.com/EzequielBurgosL/FrontendTest
+```
+
+## Opening project
+
+go to the index.html of the app directory...
+
+```sh
+cd app/index.html
+```
+
+...and copy the index.html path link on your navigator.
+
 ## Screenshots
 
 ### Initial state
@@ -14,6 +32,6 @@
 
 ![](./images/empty-search.png)
 
-### User is not found
+### User not found
 
 ![](./images/user-not-found.png)
