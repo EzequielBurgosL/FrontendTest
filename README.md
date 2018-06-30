@@ -26,17 +26,17 @@ cd app/index.html
 
 ### Initial state
 
-![](./images/initial-state.png)
+![](./docs/images/initial-state.png)
 
 ### Search
 
-![](./images/search.png)
+![](./docs/images/search.png)
 
 ### Empty search
 
-![](./images/empty-search.png)
+![](./docs/images/empty-search.png)
 
 ### User not found
 
-![](./images/user-not-found.png)
+![](./docs/images/user-not-found.png)
 
